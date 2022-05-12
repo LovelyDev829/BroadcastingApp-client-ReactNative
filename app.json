@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ammarNEWAudio",
+    "slug": "ammarNEWAudio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ammarNEWAudio"
+}
